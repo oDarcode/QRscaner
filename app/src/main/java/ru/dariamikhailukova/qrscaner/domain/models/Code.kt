@@ -7,12 +7,4 @@ data class Code (
     val id: Int = 0,
     val type: Int,
     val data: String
-): Serializable {
-    companion object {
-        fun fromSource(src: CodeEntity) = Code(
-            src.id,
-            src.type,
-            src.data
-        )
-    }
-}
+): Serializable
