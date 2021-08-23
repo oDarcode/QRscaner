@@ -1,6 +1,5 @@
 package ru.dariamikhailukova.qrscaner.domain.models
 
-import ru.dariamikhailukova.qrscaner.data.models.CodeEntity
 import java.io.Serializable
 
 data class Code (
