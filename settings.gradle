@@ -8,3 +8,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "QR scaner"
 include ':app'
+include ':BarcodeMLKit'
+include ':Barcode'
+include ':BarcodeAPI'

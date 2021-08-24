@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Barcode" />
+            <option value="$PROJECT_DIR$/BarcodeAPI" />
+            <option value="$PROJECT_DIR$/BarcodeMLKit" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
